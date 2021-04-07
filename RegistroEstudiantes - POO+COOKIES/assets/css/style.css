@@ -1,0 +1,22 @@
+.imput-error{
+    border-color: red;
+    border-width: medium;
+}
+.margen-izq-12{
+    margin-left: 3%;
+}
+.margen-top-3{
+    margin-top: 3%;
+}
+.margen-top-8{
+    margin-top: 8%;
+}
+.back{
+    background-color: rgb(18, 209, 120);
+}
+.back2{
+    background-color: rgb(146, 137, 137);
+}
+.right{
+    margin-right: 100%;
+}
